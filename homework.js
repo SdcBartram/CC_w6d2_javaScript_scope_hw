@@ -156,7 +156,7 @@
 // console.log(verdict);
 
 // COMMENTS -->
-//  no keyword is used when the variable is assigned in the function changeMurderer which is what is called before declareMurderer and the use of the console.log. The log output will read The murderer is Mr. Green.
+//  no keyword is used when the variable is assigned in the function changeMurderer which is what is called before declareMurderer and the use of the console.log. The new variables in plotTwist and unexpectedOutcome are local variables. The log output will read The murderer is Mr. Green.
 
 // EPISODE 8 
 // const scenario = {
